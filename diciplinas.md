@@ -23,7 +23,16 @@
  Esta disciplína estabelece as bases do raciocínio nescessário para a computação.  
  Nesta disciplina, são desenvolvidas as habilidades de:
 
-- Construção e análise de tabelas-verdade
-- Uso de lógica proposicional  e de predicados
-- Minimização de expressões lógicas e circuitos simples
-- Desenvolvimento de pensamento críticos e estruturado
+- Construção e análise de tabelas-verdade.
+- Uso de lógica proposicional  e de predicados.
+- Minimização de expressões lógicas e circuitos simples.
+- Desenvolvimento de pensamento críticos e estruturado.
+
+## **Criatividade e Inovação**
+Esta disciplína tem por objetivo estimular o potencial criativo do aluno, fornecendo ferramentas para a geração de ideias e o desenvolvimento de soluções inovadoras no contexto tecnológico.  
+Nesta disciplína, são desenvolvidas as habilidades de:
+
+- Aplicação de  metodologias de Design Thinking para a resolução de problemas.
+- Estímulo ao pensamento "Fora da caixa" em projetos de software.
+- Identificação de oportunidades de mercado e tendências tecnológicas
+- Desenvolvimento de prototipagem rápida e validação de ideias.
